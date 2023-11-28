@@ -1,0 +1,6 @@
+ "program": {
+    "candyMachine": "349c4pJEY3U3BcUUQyfQS3rNL7oPdrMmeHtMhcDxXQcg",
+    "candyGuard": "6YKbZDg8NnVsM1zew8hNYJ9ZAfuBSqHTsYxxqcqvbNiY",
+    "candyMachineCreator": "BfrXJsZmnApvLok3JUGkXSdNyQPRN7Kbtz6s4kWARHFW",
+    "collectionMint": "78Y9tBtHQN7xQhbavpMbN8b7fNvTxWgsyzJmGNaeq4KN"
+  },
